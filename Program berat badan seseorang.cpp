@@ -7,7 +7,7 @@ using namespace std;
 
 
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */ 
+    // Enter your code here. Read input from STDIN. Print output to STDOUT // 
     int tinggi_badan_seseorang;
     int berat_badan_seseorang;
     int usia_seseorang;
